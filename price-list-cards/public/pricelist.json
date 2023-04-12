@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 25.99,
+      "features": [
+        "Gym access",
+        "1 free PT session",
+        "No contract"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "price": 45.99,
+      "features": [
+        "Gym access",
+        "4 free PT sessions",
+        "6-month contract"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "VIP",
+      "price": 79.99,
+      "features": [
+        "Gym access",
+        "Unlimited PT sessions",
+        "12-month contract",
+        "8-month expire"
+      ]
+    }
+  ]
+  
